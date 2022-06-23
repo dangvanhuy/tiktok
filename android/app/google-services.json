@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2105154298",
+    "project_id": "tiktok-b9920",
+    "storage_bucket": "tiktok-b9920.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2105154298:android:a5ce89ee702bef29f54743",
+        "android_client_info": {
+          "package_name": "com.example.tiktok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2105154298-5kkmlae2qke5dml0a65q2ntn650i544e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUaYiHYryKUiHU8EQvFr0cb3H7hRZh9vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2105154298-5kkmlae2qke5dml0a65q2ntn650i544e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
