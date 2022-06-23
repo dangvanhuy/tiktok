@@ -1,6 +1,5 @@
 # tiktok
-
-A new Flutter project.
+Đặng Văn Huy 2002
 
 ## Getting Started
 
